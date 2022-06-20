@@ -1,0 +1,9 @@
+CORREO,USERNAME,CONTRA,TELEFONO,CARRERA,ESTADO,DESCRIPCION,ID,TIPO,MEDIO
+admin@javeriana.edu.co,admin,admin,0,null,null,null,,ADMIN,
+jetraslavina@javeriana.edu.co,david,,3123415715,Ingenieria,si,sol,,CAPI,
+alejandra@javeriana.edu.co,aleja,,313124123,Medicina,,,,NORMAL,
+samuel,trasla,1234,312,Medicina,,,1666f50a-1f6e-4bd3-8efb-d8b403da15ac,NORMAL,
+colombia@javeriana.edu.co,Henry,1234,311,Contaduria,,,e9c4b4d1-e359-4c7a-ae5f-226cb8576c4d,NORMAL,
+fuentes,olga,1234,3102345678,Contaduria,,,5646d7de-2b25-4e66-8132-0018852b43d2,NORMAL,
+capi@javeriana.edu.co,capi,,1,Comunicacion Social,,,8a7dac06-efdb-4209-bd52-4f2bcf949c90,NORMAL,
+daniel@javeriana.edu.co,daniel,1234,3123415728,Ciencias,Hombre,Me gusta el futbol,032fc51c-69b5-4cda-95db-e1c5c482238f,NORMAL,Neki
